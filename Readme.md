@@ -52,3 +52,58 @@ Unlike traditional planners, this application combines algorithmic scheduling wi
 ### 🧠 Study Plan Generation
 - A custom scheduling algorithm calculates priority for each topic:
   
+
+
+
+
+- Based on priority, the system generates a weekly study plan
+- Ensures balanced workload and efficient time allocation
+
+---
+
+### 📅 Study Tracking System
+- Users can track their daily/weekly study progress
+- Record:
+- Completed sessions
+- Study duration
+- Progress percentage
+- Helps monitor consistency and productivity
+
+---
+
+### 📊 Analytics Dashboard
+- Visual representation of learning progress
+- Displays:
+- Completion rates
+- Subject-wise performance
+- Weak and strong areas
+- Enables data-driven study improvements
+
+---
+
+### 🤖 AI Weekly Feedback
+- The system analyzes user performance data
+- AI generates:
+- Personalized study advice
+- Focus area recommendations
+- Motivational feedback
+- Enhances user engagement and learning efficiency
+
+---
+
+## 🎯 Project Highlights
+
+- Full-stack application with real-world use case
+- Integration of AI for intelligent data processing
+- Custom algorithm for study optimization
+- Clean and scalable architecture
+- Focus on both usability and performance
+
+---
+
+## 🚀 Future Improvements
+
+- Dynamic schedule reallocation based on performance trends
+- Exam readiness prediction
+- Spaced repetition integration
+- Enhanced AI insights and recommendations
